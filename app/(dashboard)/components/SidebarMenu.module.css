@@ -1,0 +1,9 @@
+.active-menu-item {
+  background: linear-gradient(90deg, #ffffff 0%, #075ded 100%);
+  color: #ff6700;
+}
+
+.active-menu-item-clicked {
+  background-color: black; /* Set the background color to black */
+  color: white; /* Set the text color to white */
+}
